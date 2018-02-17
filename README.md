@@ -9,7 +9,7 @@ The use cases (if any) are fairly vague now, as is the model of implementation. 
 
 ## Contributing
 
-If you have any ideas for use cases, or have corrections to the historical genealogies according to the bible (it is likely that I've made errors while typing), feel free to open issues or submit pull requests. 😁
+If you have any ideas for use cases, or have corrections to the historical genealogies according to the bible (it is likely that I've made errors while typing), feel free to [open issues](https://github.com/TejasQ/bible-genealogy-thing/issues/new) or submit [pull request](https://github.com/TejasQ/bible-genealogy-thing/compare)s. 😁
 
 ## Current Status
 
